@@ -1,0 +1,9 @@
+CleanAzureTest/.vs/
+CleanAzureTest/AzureLib/bin/
+CleanAzureTest/AzureLib/obj/
+CleanAzureTest/CleanAzureTest/bin/
+CleanAzureTest/CleanAzureTest/obj/
+CleanAzureTest/IndividualLibrary/bin/
+CleanAzureTest/IndividualLibrary/obj/
+*.dll
+CleanAzureTest/packages/
